@@ -3,12 +3,12 @@
 This plugin is an aggregation plugin that contains the development plugins used for Renesas QE development.
 
 ## Include Plugins
-[OpenExplorer](https://github.com/tlcsdm/eclipse-openexplorer)
-[Eclipse Copyright](https://github.com/tlcsdm/eclipse-copyright)
-[Fullscreen](https://github.com/tlcsdm/eclipse-fullscreen)
-[IconPreview](https://github.com/tlcsdm/eclipse-iconpreview)
-[ResourceBundle Editor](https://github.com/tlcsdm/eclipse-rbe)
-[UCDetector](https://github.com/tlcsdm/ucdetector)
+[OpenExplorer](https://github.com/tlcsdm/eclipse-openexplorer)  
+[Eclipse Copyright](https://github.com/tlcsdm/eclipse-copyright)  
+[Fullscreen](https://github.com/tlcsdm/eclipse-fullscreen)  
+[IconPreview](https://github.com/tlcsdm/eclipse-iconpreview)  
+[ResourceBundle Editor](https://github.com/tlcsdm/eclipse-rbe)  
+[UCDetector](https://github.com/tlcsdm/ucdetector)  
 [Eclipse Renesas Config Editor](https://github.com/tlcsdm/eclipse-renesas-config-editor)
 
 ## Build
