@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.8"?>
+<target includeMode="feature" name="target-platform">
+    <locations>
+        <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+            <repository location="https://mirrors.aliyun.com/eclipse/releases/2024-06/"/>
+            <unit id="org.eclipse.platform.feature.group" version="0.0.0"/>
+        </location>
+	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+		    <repository location="https://raw.githubusercontent.com/tlcsdm/eclipse-openexplorer/master/update_site/"/>
+		    <unit id="com.tlcsdm.eclipse.openexplorer.feature.feature.group" version="0.0.0"/>
+	    </location>
+	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+		    <repository location="https://raw.githubusercontent.com/tlcsdm/eclipse-fullscreen/master/update_site/"/>
+		    <unit id="com.tlcsdm.eclipse.fullscreen.feature.feature.group" version="0.0.0"/>
+	    </location>
+	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+		    <repository location="https://raw.githubusercontent.com/tlcsdm/eclipse-iconpreview/master/update_site/"/>
+		    <unit id="com.tlcsdm.eclipse.iconpreview.feature.feature.group" version="0.0.0"/>
+	    </location>
+	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+		    <repository location="https://raw.githubusercontent.com/tlcsdm/eclipse-renesas-config-editor/master/update_site/"/>
+		    <unit id="com.tlcsdm.eclipse.renesasconfigeditor.feature.feature.group" version="0.0.0"/>
+	    </location>
+	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+		    <repository location="https://raw.githubusercontent.com/tlcsdm/eclipse-rbe/master/eclipse-rbe-update-site/"/>
+		    <unit id="com.essiembre.eclipse.rbe.feature.group" version="0.0.0"/>
+	    </location>
+	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+		    <repository location="https://raw.githubusercontent.com/tlcsdm/ucdetector/master/org.ucdetector.update_site/"/>
+		    <unit id="org.ucdetector.feature.feature.group" version="0.0.0"/>
+	    </location>
+	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+		    <repository location="https://raw.githubusercontent.com/tlcsdm/eclipse-copyright/master/update_site/"/>
+		    <unit id="com.tlcsdm.eclipse.copyright.feature.feature.group" version="0.0.0"/>
+	    </location>
+    </locations>
+</target>
