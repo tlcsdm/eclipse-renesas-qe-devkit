@@ -8,15 +8,13 @@
    <description>
       This plugin is an aggregation plugin that contains the development plugins used for Renesas QE development: 
 
-   &lt;ul&gt;
-     &lt;li&gt;&lt;b&gt;OpenExplorer&lt;/b&gt;: Open the system file explorer from within Eclipse.&lt;/li&gt;
-     &lt;li&gt;&lt;b&gt;Eclipse Copyright&lt;/b&gt;: Automatically insert and manage copyright headers in your source files.&lt;/li&gt;
-     &lt;li&gt;&lt;b&gt;Fullscreen&lt;/b&gt;: Toggle full-screen mode in Eclipse for a distraction-free environment.&lt;/li&gt;
-     &lt;li&gt;&lt;b&gt;IconPreview&lt;/b&gt;: Preview image icons directly inside the Eclipse IDE.&lt;/li&gt;
-     &lt;li&gt;&lt;b&gt;ResourceBundle Editor&lt;/b&gt;: Powerful editor for working with Java property files (.properties), ideal for i18n.&lt;/li&gt;
-     &lt;li&gt;&lt;b&gt;UCDetector&lt;/b&gt;: Unnecessary Code Detector for finding unused classes, methods, and fields.&lt;/li&gt;
-     &lt;li&gt;&lt;b&gt;Renesas Config Editor&lt;/b&gt;: Configure and view Renesas .scfg/.mtpj/.ewp project files using an XML editor interface.&lt;/li&gt;
-   &lt;/ul&gt;
+   - Open the system file explorer from within Eclipse.
+   - Eclipse Copyright: Automatically insert and manage copyright headers in your source files.
+   - Fullscreen: Toggle full-screen mode in Eclipse for a distraction-free environment.
+   - IconPreview: Preview image icons directly inside the Eclipse IDE.
+   - ResourceBundle Editor: Powerful editor for working with Java property files (.properties), ideal for i18n.
+   - UCDetector: Unnecessary Code Detector for finding unused classes, methods, and fields.
+   - Renesas Config Editor: Configure and view Renesas .scfg/.mtpj/.ewp project files using an XML editor interface.
    </description>
 
    <copyright>
