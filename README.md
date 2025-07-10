@@ -10,6 +10,7 @@ This plugin is an aggregation plugin that contains the development plugins used 
 [ResourceBundle Editor](https://github.com/tlcsdm/eclipse-rbe)  
 [UCDetector](https://github.com/tlcsdm/ucdetector)  
 [Eclipse Renesas Config Editor](https://github.com/tlcsdm/eclipse-renesas-config-editor)
+[Eclipse Minimap](https://github.com/tlcsdm/eclipse-minimap)
 
 ## Build
 

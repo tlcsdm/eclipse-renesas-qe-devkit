@@ -2,7 +2,7 @@
 <feature
       id="com.tlcsdm.eclipse.renesas.qe.devkit.feature"
       label="%featureName"
-      version="1.0.0.qualifier"
+      version="1.0.1.qualifier"
       provider-name="%providerName">
 
    <description>
@@ -15,6 +15,7 @@
    - ResourceBundle Editor: Powerful editor for working with Java property files (.properties), ideal for i18n.
    - UCDetector: Unnecessary Code Detector for finding unused classes, methods, and fields.
    - Renesas Config Editor: Configure and view Renesas .scfg/.mtpj/.ewp project files using an XML editor interface.
+   - Minimap: Eclipse plugin provides awesome way to navigate your source code.
    </description>
 
    <copyright>
@@ -332,6 +333,10 @@ version(s), and exceptions or additional permissions here}.&quot;
 
    <includes
          id="org.ucdetector.feature"
+         version="0.0.0"/>
+
+   <includes
+         id="com.tlcsdm.eclipse.minimap.feature"
          version="0.0.0"/>
 
 </feature>
