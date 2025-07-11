@@ -38,5 +38,9 @@
 		    <repository location="https://raw.githubusercontent.com/tlcsdm/eclipse-minimap/master/update_site/"/>
 		    <unit id="com.tlcsdm.eclipse.minimap.feature.feature.group" version="0.0.0"/>
 	    </location>
+	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
+		    <repository location="https://raw.githubusercontent.com/tlcsdm/eclipse-translation/master/update_site/"/>
+		    <unit id="com.tlcsdm.eclipse.translation.feature.feature.group" version="0.0.0"/>
+	    </location>
     </locations>
 </target>

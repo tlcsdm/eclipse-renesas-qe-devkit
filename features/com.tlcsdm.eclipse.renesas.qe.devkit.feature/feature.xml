@@ -2,20 +2,28 @@
 <feature
       id="com.tlcsdm.eclipse.renesas.qe.devkit.feature"
       label="%featureName"
-      version="1.0.1.qualifier"
+      version="1.0.2.qualifier"
       provider-name="%providerName">
 
    <description>
-      This plugin is an aggregation plugin that contains the development plugins used for Renesas QE development: 
-
-   - Open the system file explorer from within Eclipse.
-   - Eclipse Copyright: Automatically insert and manage copyright headers in your source files.
-   - Fullscreen: Toggle full-screen mode in Eclipse for a distraction-free environment.
-   - IconPreview: Preview image icons directly inside the Eclipse IDE.
-   - ResourceBundle Editor: Powerful editor for working with Java property files (.properties), ideal for i18n.
-   - UCDetector: Unnecessary Code Detector for finding unused classes, methods, and fields.
-   - Renesas Config Editor: Configure and view Renesas .scfg/.mtpj/.ewp project files using an XML editor interface.
-   - Minimap: Eclipse plugin provides awesome way to navigate your source code.
+      This plugin is an aggregation plugin that contains the development
+plugins used for Renesas QE development: 
+- Open the system file explorer from within Eclipse.
+- Eclipse Copyright: Automatically insert and manage copyright
+headers in your source files.
+- Fullscreen: Toggle full-screen mode in Eclipse for a distraction-free
+environment.
+- IconPreview: Preview image icons directly inside the Eclipse
+IDE.
+- ResourceBundle Editor: Powerful editor for working with Java
+property files (.properties), ideal for i18n.
+- UCDetector: Unnecessary Code Detector for finding unused classes,
+methods, and fields.
+- Renesas Config Editor: Configure and view Renesas .scfg/.mtpj/.ewp
+project files using an XML editor interface.
+- Minimap: Eclipse plugin provides awesome way to navigate your
+source code.
+- Translation: This plugin integrates translation capabilities into the Eclipse IDE.
    </description>
 
    <copyright>
@@ -337,6 +345,10 @@ version(s), and exceptions or additional permissions here}.&quot;
 
    <includes
          id="com.tlcsdm.eclipse.minimap.feature"
+         version="0.0.0"/>
+
+   <includes
+         id="com.tlcsdm.eclipse.translation.feature"
          version="0.0.0"/>
 
 </feature>
