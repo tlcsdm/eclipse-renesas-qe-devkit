@@ -318,7 +318,7 @@ version(s), and exceptions or additional permissions here}.&quot;
       <discovery label="Icon Preview Update Site" url="https://raw.githubusercontent.com/tlcsdm/eclipse-iconpreview/update_site/"/>
       <discovery label="Open Explorer Update Site" url="https://raw.githubusercontent.com/tlcsdm/eclipse-openexplorer/update_site/"/>
       <discovery label="Eclipse Renesas Config Editor Update Site" url="https://raw.githubusercontent.com/tlcsdm/eclipse-renesas-config-editor/update_site/"/>
-      <discovery label="Tlcsdm ResourceBundle Editor Update Site" url="https://raw.githubusercontent.com/tlcsdm/eclipse-rbe/master/eclipse-rbe-update-site/"/>
+      <discovery label="Tlcsdm ResourceBundle Editor Update Site" url="https://raw.githubusercontent.com/tlcsdm/eclipse-rbe/master/eclipse-rbe-update-site/site.xml"/>
       <discovery label="Unnecessary Code Detector Updates" url="https://raw.githubusercontent.com/tlcsdm/ucdetector/master/org.ucdetector.update_site/"/>
       <discovery label="Minimap Update Site" url="https://raw.githubusercontent.com/tlcsdm/eclipse-minimap/update_site/"/>
       <discovery label="Eclipse Translation Update Site" url="https://raw.githubusercontent.com/tlcsdm/eclipse-translation/update_site/"/>
