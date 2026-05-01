@@ -23,8 +23,8 @@
 		    <unit id="com.tlcsdm.eclipse.renesasconfigeditor.feature.feature.group" version="0.0.0"/>
 	    </location>
 	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-		    <repository location="https://raw.githubusercontent.com/tlcsdm/eclipse-rbe/master/eclipse-rbe-update-site/"/>
-		    <unit id="com.essiembre.eclipse.rbe.feature.group" version="0.0.0"/>
+		    <repository location="https://raw.githubusercontent.com/tlcsdm/eclipse-rbe/update_site/"/>
+		    <unit id="com.tlcsdm.eclipse.rbe.feature.feature.group" version="0.0.0"/>
 	    </location>
 	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
 		    <repository location="https://raw.githubusercontent.com/tlcsdm/ucdetector/master/org.ucdetector.update_site/"/>
