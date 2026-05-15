@@ -8,7 +8,7 @@ This plugin is an aggregation plugin that contains the development plugins used 
 [Fullscreen](https://github.com/tlcsdm/eclipse-fullscreen)  
 [IconPreview](https://github.com/tlcsdm/eclipse-iconpreview)  
 [ResourceBundle Editor](https://github.com/tlcsdm/eclipse-rbe)  
-[UCDetector](https://github.com/tlcsdm/ucdetector)  
+[Tlcsdm UCDetector](https://github.com/tlcsdm/eclipse-ucdetector)  
 [Eclipse Renesas Config Editor](https://github.com/tlcsdm/eclipse-renesas-config-editor)  
 [Eclipse Minimap](https://github.com/tlcsdm/eclipse-minimap)  
 [Eclipse Translation](https://github.com/tlcsdm/eclipse-translation)

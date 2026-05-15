@@ -27,8 +27,8 @@
 		    <unit id="com.tlcsdm.eclipse.rbe.feature.feature.group" version="0.0.0"/>
 	    </location>
 	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-		    <repository location="https://raw.githubusercontent.com/tlcsdm/ucdetector/master/org.ucdetector.update_site/"/>
-		    <unit id="org.ucdetector.feature.feature.group" version="0.0.0"/>
+		    <repository location="https://raw.githubusercontent.com/tlcsdm/eclipse-ucdetector/update_site/"/>
+		    <unit id="com.tlcsdm.eclipse.ucdetector.feature.feature.group" version="0.0.0"/>
 	    </location>
 	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
 		    <repository location="https://raw.githubusercontent.com/tlcsdm/eclipse-copyright/update_site/"/>
